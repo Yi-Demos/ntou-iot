@@ -1,5 +1,6 @@
 # Tranquility x NTOU IoT
 
+
 [![Build Status](https://travis-ci.org/michalsnik/aos.svg?branch=master)](https://travis-ci.org/michalsnik/aos)
 
 ![](https://i.imgur.com/1qc7aIg.png)
@@ -11,10 +12,11 @@
 
 ```
 git clone
-
 ```
 
 ## ✨ API test
+[Dashboard](https://www.tranquility.tech/project/ntou)
+
 ```
 // insert one data
 https://api.localhost/ntou?flows=10
