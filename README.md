@@ -4,10 +4,14 @@
 
 ![](https://i.imgur.com/1qc7aIg.png)
 
+## ✨ Install
+[Quick Start to Nodemcu (ESP8266) on Arduino IDE](https://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
+
 ## ✨ Usage
 
 ```
 git clone
+
 ```
 
 ## ✨ API test
@@ -19,7 +23,7 @@ https://api.localhost/ntou?flows=10
 https://api.localhost/ntou?flows=10&flows=20
 ```
 
-## Author
+## ✨ Author
 
 **Ta-Yi Cheng**
 
@@ -27,15 +31,14 @@ https://api.localhost/ntou?flows=10&flows=20
 * Github: [@TranquilityTech](https://github.com/TranquilityTech)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/ta-yi-cheng\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ta-yi-cheng\/)
 
-## Contributing
+## ✨ Contributing
 
 Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://www.tranquility.tech/).
 
 
-## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## ✨ License
 [MIT](https://choosealicense.com/licenses/mit/)
