@@ -19,10 +19,10 @@ git clone
 
 ```
 // insert one data
-https://api.localhost/ntou?flows=10
+https://api.tranquility.tech//ntou?flows=10
 
 // insert multiple data
-https://api.localhost/ntou?flows=10&flows=20
+https://api.tranquility.tech//ntou?flows=10&flows=20
 ```
 
 ## ✨ Author
