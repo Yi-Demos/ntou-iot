@@ -1,6 +1,5 @@
 # Tranquility x NTOU IoT
 
-
 [![Build Status](https://travis-ci.org/michalsnik/aos.svg?branch=master)](https://travis-ci.org/michalsnik/aos)
 
 ![](https://i.imgur.com/1qc7aIg.png)
@@ -8,21 +7,21 @@
 ## ✨ Install
 [Quick Start to Nodemcu (ESP8266) on Arduino IDE](https://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
 
-## ✨ Usage
+## ✨ How to use
 
-```
-git clone
-```
+1) git clone
+2) add your WIFI in MY_SSID and MY_PWD
+3) run arduino IDE compiler
 
 ## ✨ API test
 [Dashboard](https://www.tranquility.tech/project/ntou)
 
 ```
 // insert one data
-https://api.tranquility.tech//ntou?flows=10
+https://api.tranquility.tech/ntou?flows=10
 
 // insert multiple data
-https://api.tranquility.tech//ntou?flows=10&flows=20
+https://api.tranquility.tech/ntou?flows=10&flows=20
 ```
 
 ## ✨ Author
