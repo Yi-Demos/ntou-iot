@@ -155,7 +155,7 @@ void senddata(int* o2, int* flows, int* curTime) {
         query += "flows=";
         query += flows[arrayLength];
         query += '&';
-        query += "curTime=";
+        query += "t=";
         query += curTime[arrayLength];
         query += '&';
     }
