@@ -18,10 +18,10 @@
 
 ```
 // insert one data
-https://api.tranquility.tech/ntou?flows=10
+https://api.tranquility.tech/ntou?flows=10&t=1
 
 // insert multiple data
-https://api.tranquility.tech/ntou?flows=10&flows=20
+https://api.tranquility.tech/ntou?flows=10&t=1&flows=20&t=2
 ```
 
 ## ✨ Author
