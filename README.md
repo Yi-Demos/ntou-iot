@@ -1,9 +1,5 @@
 # Tranquility x NTOU IoT
 
-[![Build Status](https://travis-ci.org/michalsnik/aos.svg?branch=master)](https://travis-ci.org/michalsnik/aos)
-
-![](https://i.imgur.com/1qc7aIg.png)
-
 ## ✨ Install
 [Quick Start to Nodemcu (ESP8266) on Arduino IDE](https://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
 
